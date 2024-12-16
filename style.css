@@ -36,7 +36,7 @@ nav{
     transition: transform 10s ease-in-out, opacity 0.3s ease;
 }
 .logo:hover{
-    content: url('images/logo.png');
+    content: url('logo.png');
 }
 
 nav ul li{
